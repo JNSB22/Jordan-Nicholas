@@ -12,5 +12,3 @@
 <br />
 
 [![JNSB22's GitHub stats](https://profile-stats-coral.vercel.app/api?username=JNSB22&show_icons=true&theme=dracula&show=prs_merged,prs_merged_percentage&hide=stars,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://profile-stats-coral.vercel.app/api/top-langs/?username=JNSB22&count_private=true&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
